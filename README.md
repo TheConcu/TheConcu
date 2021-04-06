@@ -1,0 +1,4 @@
+- Hi, I’m Chris.
+- I’m interested in Game Dev.
+- I’m currently learning Unity.
+- Reach me on Twitter DM.
