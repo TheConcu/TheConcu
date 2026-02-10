@@ -1,3 +1,3 @@
 - Hi, I’m Chris.
-- I’m interested in Level Design.
+- I’m interested in Game Design.
 
